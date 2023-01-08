@@ -8,8 +8,12 @@ Resemble is a basic sm64ex-coop server written in python, with a goal of being a
 
 ## Setup:
 Windows:
-  Install python from (this link)[https://www.python.org/downloads/]
+
+  Install python from [this link](https://www.python.org/downloads/)
+  
+  
 Linux:
+  
   Open a terminal, and run `sudo apt-get update`
 ## How to run:
 Execute main.py and provide an IP to host the server on, you may also provide a custom port.
