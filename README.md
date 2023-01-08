@@ -30,9 +30,7 @@ Resemble is a basic sm64ex-coop server written in python, with a goal of being a
 ## How to run:
 Execute main.py and provide an IP to host the server on, you may also provide a custom port.
 
-If your server uses a domain to connect, host on the IP of the corresponding subdomain.
-
-- You can run `python main.py help` for more info.
+You can use `python main.py help` for more info about the format.
 
 ## Notes and credits:
 - Based off of djoslin0's [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop)
