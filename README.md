@@ -7,18 +7,18 @@ Resemble is a basic sm64ex-coop server written in python, with a goal of being a
 - python-box
 
 ## Setup:
-Windows:
+### Windows:
 
-- Installing python:
+- Installing Python:
   1. Install the latest Python from [this link](https://www.python.org/downloads/)
   2. Open Powershell as an administrator and run `python3.11 -m ensurepip`
 
 - Installing libraries:
   1. Install python-box with `python3.11 -m pip install python-box`
   
-Linux:
+### Linux:
   
-- Installing python:
+- Installing Python:
   1. Open a terminal, and run `sudo apt-get update`
   2. Add the deadsnakes repository with `sudo apt-add-repository ppa:deadsnakes/ppa`
   3. Install python with `sudo apt-get install python3.11`
