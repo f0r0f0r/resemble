@@ -20,7 +20,7 @@ Resemble is a basic sm64ex-coop server written in python, with a goal of being a
   
 - Installing Python:
   1. Open a terminal, and run `sudo apt-get update`
-  2. Add the deadsnakes repository with `sudo apt-add-repository ppa:deadsnakes/ppa`
+  2. Add the ppa repository with `sudo apt-add-repository ppa:deadsnakes/ppa`
   3. Install python with `sudo apt-get install python3.11`
   4. Run `curl -sS https://bootstrap.pypa.io/get-pip.py | python3.11` to install pip
 
