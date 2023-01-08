@@ -32,9 +32,9 @@ Execute main.py and provide an IP to host the server on, you may also provide a 
 
 If your server uses a domain to connect, host on the IP of the corresponding subdomain.
 
-You can also run `python main.py help` for more info about the format
+You can run `python main.py help` for more info about how to run a server
 
 ## Notes and credits:
 - Based off of djoslin0's [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop)
 - Resemble is not an sm64ex-coop client and cannot be used as such
-- Resemble may have some missing features, feel free to report or PR them.
+- Resemble may have some missing features or bugs, feel free to report or PR them.
